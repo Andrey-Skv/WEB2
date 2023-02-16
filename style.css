@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(204, 224, 143);
+
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: rgb(15, 100, 7);
+}
+a {
+    color: rgb(128, 34, 204);
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+img {
+    border: 3px solid rgb(4, 0, 255);
+    border-radius: 20px;
+    width: 600px;
+
+}
